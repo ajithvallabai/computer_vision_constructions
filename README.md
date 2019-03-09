@@ -6,8 +6,16 @@ which helps them to move ,find food,fight ,hide ,escape .
 You know there are some pictures/movies where the picture/movie itself speaks i.e a langauge is born (no need to speak(audio))
 similarly in language processing when you hear some stories/drama's you can get  vision or a perception.You can consider vision and language like a symbol of infinity .
 
+Dreams too comes in pictures/scenes
 
-#### Begineer
-1.Giving a raw photo graph of handwritten digit from 0 to 9 MNIST model 
+#### Dataset
+
+ - MNIST Dataset
+    1.Giving a raw photo graph of handwritten digit from 0 to 9 MNIST model 
+
+ - CIFAR Dataset
+
+
+
 
 
