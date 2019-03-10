@@ -14,7 +14,7 @@ Dreams too comes in pictures/scenes.
 
     - Giving a raw photograph of handwritten digit from 0 to 9 MNIST model .
     
-    - Similar to MNIST create a dataset and train a model . 
+    
 
  - [CIFAR Dataset](https://www.cs.toronto.edu/~kriz/cifar.html "cifar")
 
