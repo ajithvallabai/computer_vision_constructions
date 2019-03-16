@@ -12,9 +12,9 @@ Dreams too comes in pictures/scenes.
 
  - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/ "mnist")
 
-    - Giving a raw photograph of handwritten digit from 0 to 9 MNIST model .
+    - Giving a raw photograph of handwritten digit from 0 to 9 MNIST model . [ opencv ]
     
-    
+    - Digit recognizer  [ python3 keras ]
 
  - [CIFAR Dataset](https://www.cs.toronto.edu/~kriz/cifar.html "cifar")
 
