@@ -16,12 +16,12 @@ You can mail to inocajith21.5@gmail.com if you are stuck some where in these ste
   - [Prerequities](#Prerequities) 
   - [Step 1 Initialization-of-basics](#Step-1-Initialization-of-basics)
   - [Step 2 Basic DL projects](#Step-2-Basic-DL-projects) 
-  - [Step 3 Multi class Classification](#Step-3---Multi class Classification)
-  - [Step 4 Multiclass Detection](#Step-4---Multiclass Detection)
-  - [Step 5 Custom Multiclass Detection](#Step-5---Custom Multiclass Detection)
-  - [Step 6 Multi class segmentation](#Step-6---Multi class segmentation)
-  - [Step 7 Object Tracking](#Step-7---Object Tracking)
-  - [Step 8 Apply for interviews](#Step-8---Apply for interviews)
+  - [Step 3 Multi class Classification](#Step-3---Multi-class-Classification)
+  - [Step 4 Multiclass Detection](#Step-4---Multiclass-Detection)
+  - [Step 5 Custom Multiclass Detection](#Step-5---Custom-Multiclass-Detection)
+  - [Step 6 Multi class segmentation](#Step-6---Multi-class-segmentation)
+  - [Step 7 Object Tracking](#Step-7---Object-Tracking)
+  - [Step 8 Apply for interviews](#Step-8---Apply-for-interviews)
   
 
 
